@@ -1,0 +1,159 @@
+.wrapper{
+
+	width: 980px;
+	background-color: grey;
+	height: 650px;
+}
+.banner{
+	background-color: black;
+	display:block;
+}
+.logo{
+	display: inline-block;
+}
+.header{
+	display: inline-block;
+	vertical-align: top;
+	margin-left: 588px;
+	margin-bottom: 20px;
+	font-size: 12px;
+	color:white;
+}
+
+.maincontent{
+	height: 830px;
+	background-color: black;
+}
+.mainnav{
+	background-color:#3A3A3A ;
+	width: 980px;
+	height: 33px;
+}
+.mainnav p{
+	display: inline;
+	text-align:center;
+
+}
+.mainnav a{
+	color:grey;
+	text-align: right;
+	padding-right: 20px;
+}
+.locationpic{
+width: 980px;
+height: 300px;
+
+background-image: url("main_pic.png");
+display: block;
+
+
+}
+.boxcontainer{
+width: 980px;
+height: 115px;
+display: block;
+background-color:#292929;
+
+
+}
+
+h4{
+	padding: 10px;
+	margin:0;
+}
+.about p{
+	font-size: 11px;
+	color: white;
+	padding: 5px;
+}
+
+.boxes{
+	
+	width: 110px;
+	height: 62px;
+	padding-right: 
+}
+.inline{
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 100px;
+	margin-left: 8px;
+}
+
+h5{
+	padding: 7px;
+	margin:0;
+	color: #D65C33;
+}
+.subtitle{
+	
+	display: inline-block;
+	height:25px;
+}
+.pics{
+	display: inline-block;
+	margin-left: 62px;
+	margin-top: 10px;
+}
+.boxes p{
+	font-size: 10px;
+	padding: 5px;
+	height: 40px;
+	color: white;
+
+}
+.buy{
+	width: 980px;
+	height: 150px;
+	display: inline-block;
+	vertical-align: top;
+}
+
+.buy p{
+	color:white;
+	font-size: 12px;
+	display: inline-block;
+
+}
+
+h3{
+	color:white;
+	width: 500px;
+	display: inline-block;
+
+}
+
+.buybutton{
+	
+	margin-left: 786px;
+	margin: auto;
+	display: inline-block;
+	width:122px;
+	height: 44px;
+	padding-left: 200px;
+}
+button{
+	background-color: #D65C33;
+	color:white;
+	border-radius: 10px;
+	width:122px;
+	height: 44px;
+	font-size: 16px;
+}
+
+.boxxes{
+	
+	width: 211px;
+	height: 135px;
+	padding-right: 
+}
+.inlines{
+	display: inline-block;
+	vertical-align: top;
+	margin-bottom: 200px;
+	margin-left: 25px;
+}
+.boxxes p{
+	color:white;
+	font-size: 12px;
+}
